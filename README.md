@@ -56,7 +56,7 @@ By applying Python-based data analysis and visualization techniques, the project
 
 **Amos Vante**  
 Agricultural Economist & Data Analyst  
-📫 [LinkedIn](www.linkedin.com/in/amos-vanté-05549b42) 
+📫 [LinkedIn](https://www.linkedin.com/in/amos-vant%C3%A9-05549b42/) 
 
 ---
 
