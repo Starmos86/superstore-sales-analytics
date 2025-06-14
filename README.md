@@ -14,7 +14,7 @@ Built with Python and visualization tools, the goal is to deliver actionable KPI
 
 ## 📊 Key Business Questions
 
-- How did sales and profits evolve from 2012 to 2015?
+- How did sales and profits evolve from 2021 to 2024?
 - What’s the impact of discounting on profitability?
 - Which regions and categories perform best?
 - Are there seasonal sales patterns?
@@ -36,7 +36,7 @@ Built with Python and visualization tools, the goal is to deliver actionable KPI
 |------|-------------|
 | `Superstore Analytics Project.ipynb` | Full Jupyter notebook with all code & charts |
 | `Superstore Analytics Project.html`  | 📄 Rendered HTML version of the full analysis |
-| *(Optional)* `Sample - Superstore 2024.xlsx` | Original Excel dataset (not included publicly) |
+| `Sample - Superstore 2024.xlsx` | Original Excel dataset (not included publicly) |
 
 ---
 
