@@ -52,13 +52,6 @@ By applying Python-based data analysis and visualization techniques, the project
 
 ---
 
-## 📂 Dataset Source
-
-The dataset used in this project is a publicly available retail dataset:  
-🔗 [Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-
----
-
 ## 🧠 Author
 
 **Amos Vante**  
